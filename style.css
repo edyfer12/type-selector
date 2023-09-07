@@ -1,1 +1,7 @@
 /* Add style to just the div element */
+
+div {
+    color:white;
+    background-color: orange;
+    font-size:28px;
+}
